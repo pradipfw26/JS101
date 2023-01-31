@@ -1,1 +1,1 @@
-# JS101
+# JS101 introsuction of javascript
